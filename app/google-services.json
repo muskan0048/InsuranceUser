@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591376744300",
+    "firebase_url": "https://insuranceuser-5e616.firebaseio.com",
+    "project_id": "insuranceuser-5e616",
+    "storage_bucket": "insuranceuser-5e616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591376744300:android:ea9c76fd5920bb9731bd49",
+        "android_client_info": {
+          "package_name": "in.codecorp.insuranceuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591376744300-lvl8maeg36ljk67706meaqkh96uh6eir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.codecorp.insuranceuser",
+            "certificate_hash": "249af755fb9c9e36b269f71391052c3f821909b0"
+          }
+        },
+        {
+          "client_id": "591376744300-m0euhchqfq0ci5dtr4ss2u1o2dhq3fm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2rpiWnzjOV2H2S6L2xuESsBdTYg-0FgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591376744300-m0euhchqfq0ci5dtr4ss2u1o2dhq3fm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

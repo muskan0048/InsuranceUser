@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InsuranceUser</string>
+    <string name="title_activity_user_dashboard">UserDashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Account</string>
+    <string name="title_activity_workshop_dashboard">WorkshopDashboard</string>
+    <string name="Internet_Title">Internet Connection Required</string>
+    <string name="facebook_app_id">258598718427267</string>
+    <string name="fb_login_protocol_scheme">fb258598718427267</string>
+    <string name="Internet_Message">Please connect to working Internet connection</string>
+    <string name="ok">ok</string>
+    <string name="url">http://bytesnmaterials.com/healthcare/</string>
+    <string name="server_client_id">567481527905-srf963sgj7e81rd30eaoc2cjtc2mvrqq.apps.googleusercontent.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="error">Error!</string>
+    <string name="error_Pwd_not">Password does not matches</string>
+    <string name="error_Pwd_6">Please enter minimum 6 digit password</string>
+    <string name="error_Email">Please Enter valid Email address</string>
+    <string name="error_All">Please Enter all filed</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="planets_array">
+        <item>Sound</item>
+        <item>Vibrate</item>
+        <item>Both</item>
+    </string-array>
+
+</resources>
